@@ -1,0 +1,35 @@
+html {
+    background-color: rgb(221, 187, 101);
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    margin-left: 500px;
+    text-align: center;
+    width: 500px;
+    height: 600;
+    background-color: aqua;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#thirdDiv {
+    background-color: aqua;
+    border: blue;
+    border: solid;
+}
+
+#spanId {
+    font-size: 18px;
+    margin-left: 50px;
+}
